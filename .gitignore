@@ -1,0 +1,11 @@
+examples/*/*/crops/
+examples/*/*/data_properties.json
+examples/*/*/experiment/*
+examples/*/*/*checkpoints/*
+examples/*/*/static/*
+data/
+EmbedSeg/*/__pycache__/
+*__pycache__*/
+build/*
+dist/*
+*egg-info
