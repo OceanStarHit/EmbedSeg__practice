@@ -56,7 +56,7 @@ Look in the `examples` directory,  and try out one of the provided notebooks. Pl
 
 ### Datasets
 3D datasets are available as release assets **[here](https://github.com/juglab/EmbedSeg/releases/tag/v0.1.0)**. 
-![datasets](https://user-images.githubusercontent.com/34229641/118558022-5bd27b00-b766-11eb-889b-00886b725c2a.png)
+![datasets](assets/118558022-5bd27b00-b766-11eb-889b-00886b725c2a.png)
 
 ### Training and Inference on your data
    
@@ -89,7 +89,7 @@ $data_dir
 ### Animated Figures
 
 <p align="center">
-  <img src="https://mlbyml.github.io/EmbedSeg_RC/images/teaser/train_images_painted.gif" alt="teaser" width="500"/>
+  <img src="assets/train_images_painted.gif" alt="teaser" width="500"/>
 </p>
 
 
